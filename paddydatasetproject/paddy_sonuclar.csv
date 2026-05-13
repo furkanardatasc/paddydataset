@@ -1,0 +1,9 @@
+﻿Degerlendirme Kriterleri,Dogruluk Tahmin Orani
+Rastgele Orman,0.982078853046595
+Karar Agaci,1.0
+K-En Yakin Komsu (k=5),0.9229390681003584
+Lineer Regresyon,0.9946236559139785
+Basit Bayes,0.35842293906810035
+CNN (128-64-32 relu),0.974910394265233
+YSA (64-32 tanh),1.0
+SVM (RBF Kernel),0.7078853046594982
